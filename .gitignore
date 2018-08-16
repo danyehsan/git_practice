@@ -1,0 +1,2 @@
+passwords.txt
+#putting things into .gitignore will not show up to github. Things like passwords and/or other sensitive information.
